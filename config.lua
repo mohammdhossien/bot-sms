@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '169563571:AAF5mbeEUM2X7iFdUx0aXe4HrfZp-f0I9QI',
 	time_offset = 0,
 	cli_port = 4567,
 	admin = 00000000,
@@ -14,12 +14,12 @@ return {
 	},
 	moderation = {
 		admins = {
-			['000000000'] = 'You'
+			['90516804'] ='You'
 		},
 				realms = {
-			['00000000'] = 'MyRealm! '
+			['90516804'] = 'MyRealm! '
 		},
-		admin_group = 00000000,
+		admin_group = 90516804,
 		realm_name = 'MyRealm'
 	},
 	plugins = {
